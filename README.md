@@ -1,4 +1,4 @@
-# Anaethesia Management System
+# Anaesthesia Information Management System
 
 ## Note to contributors:
 Please add in your contributions in plain text. Descriptive file names are welcome, but not necessary.
