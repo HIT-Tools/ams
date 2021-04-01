@@ -12,4 +12,4 @@ Keep your departmental administrators / HoD informed about your involvement with
 Contributions to this repository must be under CC-BY-SA 4.0 
 
 Disclaimers: The information presented must not be used for crital or life threatening scenarios without appropriate testing and certification.
-Refer DISCLAIMER.md for complete disclaimer.
+Kindly refer DISCLAIMER.md for complete disclaimer.
